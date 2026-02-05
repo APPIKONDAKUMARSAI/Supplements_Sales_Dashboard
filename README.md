@@ -26,7 +26,7 @@ KPI cards showcasing Total Sales, Revenue, and Growth
 <br>Clean, user-friendly interface for stakeholder presentations
 
 6. Screenshot:<br>
-Here's how the dashboard looks:
+Here's how the dashboard looks:https://github.com/APPIKONDAKUMARSAI/Supplements_Sales_Dashboard/blob/main/Supplement_dashboard.png
 
    
 
